@@ -43,6 +43,7 @@ body{
     transform: translateX(50px);
     margin-top: -90px;
 }
+
 .main .h-second{
     transform: translateX(200px);
 }
@@ -55,8 +56,12 @@ body{
 .main-child{
     display: flex;
     align-items: center;
-    justify-content:right;
+    justify-content: space-between;
+    padding: 20px;
 }
 .main-child span{
     color: white;
+    text-transform: uppercase;
+    font-size: 2.3vh;
+    font-family: Arial, Helvetica, sans-serif;
 }
