@@ -57,3 +57,6 @@ body{
     align-items: center;
     justify-content:right;
 }
+.main-child span{
+    color: white;
+}
